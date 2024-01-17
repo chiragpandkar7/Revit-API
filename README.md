@@ -13,7 +13,7 @@ This repository comprises two projects, AddButton and AddPanel, implementing a R
 1. Clone the repository:
 
     ```bash
-    [git clone https://github.com/chiragpandkar7/RevitAPI.git]
+    [git clone https://github.com/chiragpandkar7/Revit-API.git]
     ```
 
 2. Open the solution file of the required project in Visual Studio.
